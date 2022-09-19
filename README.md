@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on UI Head in Neoito.com and dev@Plural.com
+- 🔭 I’m currently working on ⚡UI Head in Neoito.com and 💻dev @Plural.com
 - 🌱 I’m currently learning ReactJS, React native
 - 📫 You can reach me by mail at kiran.rr91@gmail.com
 - 🐤 You can find me on Twitter as @Kiran_raj_r
