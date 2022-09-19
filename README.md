@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![React](https://img.shields.io/badge/-React-F0F8FF?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React-F0F8FF?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-React-Native-DD0031?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F0F8FF?style=flat-square&logo=Node.js)
