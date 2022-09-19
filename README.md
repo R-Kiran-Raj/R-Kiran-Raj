@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 📫 You can reach me by mail at kiran.rr91@gmail.com
 - 🐤 You can find me on Twitter as @Kiran_raj_r
 - 😄 Pronouns: ... He/Him
-- 🙊 I speak English.
 - 💬 Ask me about [https://github.com/azure/static-web-apps](https://reactnative.dev/)
 
 <div align="center" text-align="center" border-width="1px">
