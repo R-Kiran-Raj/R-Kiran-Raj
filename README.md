@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![React](https://img.shields.io/badge/-React-F0F8FF?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-13aa52?style=flat-square&logo=react)
+![React Native](https://img.shields.io/badge/-ReactNative-black?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F0F8FF?style=flat-square&logo=Node.js)
@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/R-Kiran-Raj/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/R-Kiran-Raj/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/R-Kiran-Raj/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+
+![Weather](https://lucky-badge.herokuapp.com/api/weather/card)
+
