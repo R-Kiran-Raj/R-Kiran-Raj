@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ⚡UI Head in Neoito.com and 💻dev @Plural.com
 - 🌱 I’m currently learning ReactJS, React native
 - 📫 You can reach me by mail at kiran.rr91@gmail.com
-- 🐤 You can find me on Twitter as [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kiran_raj_r.svg?style=social&label=Follow Kiran)](https://twitter.com/Kiran_raj_r)
+- 🐤 You can find me on Twitter as [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kiran_raj_r.svg?style=social&label=Follow Kiran_raj_r)](https://twitter.com/Kiran_raj_r)
 
 - 😄 Pronouns: ... He/Him
 - 💬 Ask me about [https://github.com/azure/static-web-apps](https://reactnative.dev/)
