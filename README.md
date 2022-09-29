@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🐤 You can find me on Twitter as [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kiran_raj_r.svg?style=social&label=Follow%20Kiran)](https://twitter.com/Kiran_raj_r)
 
 - 😄 Pronouns: ... He/Him
-- 💬 Ask me about [https://github.com/azure/static-web-apps](https://reactnative.dev/)
+- 💬 Ask me about [React](https://reactjs.org/), [React Native](https://reactnative.dev/)
 
 <div align="center" text-align="center" border-width="1px">
   <img align="center" src="https://github.com/art-santos/art-santos/blob/output/github-contribution-grid-snake.svg" alt="Github Snake Animation">
