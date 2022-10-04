@@ -17,14 +17,10 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 <br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ⚡UI Head in Neoito.com and 💻dev @Plural.com
-- 🌱 I’m currently learning ReactJS, React native
+- 🔭 I'm currently working on ⚡UI Head in Neoito.com and 💻dev @Plural.com
+- 🌱 I'm currently working with ReactJS, React native and GraphQL
 - 📫 You can reach me by mail at kiran.rr91@gmail.com
 - 🐤 You can find me on Twitter as [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kiran_raj_r.svg?style=social&label=Follow%20Kiran)](https://twitter.com/Kiran_raj_r)
-
-- 😄 Pronouns: ... He/Him
 - 💬 Ask me about [React](https://reactjs.org/), [React Native](https://reactnative.dev/)
 
 <div align="center" text-align="center" border-width="1px">
