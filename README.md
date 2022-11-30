@@ -35,6 +35,7 @@
 ![CPANEL](https://img.shields.io/badge/cPanel-FF6C2C.svg?style=for-the-badge&logo=cPanel&logoColor=white)
 
 <br/>
+
 - 🔭 I'm currently working on ⚡UI Head in [Neoito.com](https://www.neoito.com/) and 💻dev [@Plural.com](https://plural.com/)
 - 🌱 I'm currently working with ReactJS, React native and GraphQL
 - 📫 You can reach me by mail at 
