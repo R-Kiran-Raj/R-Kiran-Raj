@@ -9,7 +9,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Viewjs](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vuedotjs&logoColor=white)
 
-https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white
+(https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PHP](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php)
 ![Wordpress](https://img.shields.io/badge/-wordpress-yellow?style=flat-square&logo=wordpress)
 
