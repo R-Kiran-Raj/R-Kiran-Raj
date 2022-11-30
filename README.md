@@ -7,6 +7,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F0F8FF?style=flat-square&logo=Node.js)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Viewjs](https://img.shields.io/badge/-Viewjs-DD0031?style=flat-square&logo=angular&logoColor=green)
 ![PHP](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php)
 ![Wordpress](https://img.shields.io/badge/-wordpress-yellow?style=flat-square&logo=wordpress)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-F0F8FF?style=flat-square&logo=tailwindcss)
