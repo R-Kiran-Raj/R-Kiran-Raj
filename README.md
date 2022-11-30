@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F0F8FF?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-F0F8FF?style=flat-square&logo=Node.js)
-![Deno](https://img.shields.io/badge/-deno-purple?style=flat-square&logo=deno)
+![PHP](https://img.shields.io/badge/-php-purple?style=flat-square&logo=php)
 ![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-F0F8FF?style=flat-square&logo=tailwindcss)
