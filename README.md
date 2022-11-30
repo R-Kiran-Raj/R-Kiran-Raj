@@ -37,7 +37,7 @@
 <br/>
 - 🔭 I'm currently working on ⚡UI Head in [Neoito.com](https://www.neoito.com/) and 💻dev [@Plural.com](https://plural.com/)
 - 🌱 I'm currently working with ReactJS, React native and GraphQL
-- 📫 You can reach me by mail at [Kiran](mailto:kiran.rr91@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 You can reach me by mail at 
 - you can reach me on [whatsapp](https://wa.me/+917293024464)
 - 🐤 You can find me on Twitter as [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/Kiran_raj_r.svg?style=social&label=Follow%20Kiran)](https://twitter.com/Kiran_raj_r)
 - 💬 Ask me about [React](https://reactjs.org/), [React Native](https://reactnative.dev/)
