@@ -26,7 +26,6 @@
 
 ![WEBPACK](https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)
 ![JEST](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
-
 ![REDUX](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
 ![REDUX-SAGA](https://img.shields.io/badge/ReduxSaga-999999.svg?style=for-the-badge&logo=Redux-Saga&logoColor=white)
 
