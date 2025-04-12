@@ -61,4 +61,3 @@ Modular architecture implementation guide.
 - **For consulting**: [Email me](mailto:kiran.rr91@gmail.com)  
 - **Open to**: Architectural reviews, scaling challenges, and tech leadership roles  
 
-![Coding Activity](https://github.com/art-santos/art-santos/blob/output/github-contribution-grid-snake.svg)
