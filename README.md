@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Technical Leadership  
-**12+ years** designing, building, and scaling high-traffic web/mobile applications for enterprises (Microsoft, Dell) and startups.  
+**10+ years** designing, building, and scaling high-traffic web/mobile applications for enterprises (Microsoft, Dell) and startups.  
 
 ✔ **Architecture**: Micro-Frontends, Cloud-Native Apps (AWS), CI/CD Pipelines  
 ✔ **Performance**: 40% faster load times in production apps  
