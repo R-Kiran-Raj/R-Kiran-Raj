@@ -1,63 +1,152 @@
-# Kiran Raj R  
-**Senior Full-Stack Architect | React & Node.js Specialist | Scaling SaaS to 500K+ Users**  
+# 👋 Hi, I'm Kiran Raj
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/kiran-raj-r)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-000000?style=flat)](https://kiranraj.dev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:kiran.rr91@gmail.com)
+🚀 **Full-Stack Architect | SaaS Scaling Expert | 10+ Years Experience**
 
----
-
-## 🚀 Technical Leadership  
-**10+ years** designing, building, and scaling high-traffic web/mobile applications for enterprises (Microsoft, Dell) and startups.  
-
-✔ **Architecture**: Micro-Frontends, Cloud-Native Apps (AWS), CI/CD Pipelines  
-✔ **Performance**: 40% faster load times in production apps  
-✔ **Mentorship**: Led 20+ engineers at Neoito; 15+ promoted to senior roles  
+I help startups and enterprises build and scale high-performance web applications used by **500K+ users**, specializing in **React, Node.js, and cloud-native architectures**.
 
 ---
 
-## 🛠 Core Expertise  
+## 💡 About Me
 
-### **Frontend Architecture**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs)
-![Micro-Frontends](https://img.shields.io/badge/-Micro_Frontends-5C2D91?logo=webcomponents)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-
-### **Backend & DevOps**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+* 🏗️ Architected and scaled fintech & SaaS platforms
+* ⚡ Improved application performance by **40%+ in production**
+* 👨‍💻 Led and mentored **20+ engineers**
+* 🔁 Expert in **micro-frontends, system design & scalable architecture**
+* 🌍 Experience working with startups, enterprises & global teams
 
 ---
 
-## 💼 Highlighted Projects  
+## 🚧 Currently Working On
 
-### **Plural.com**  
-Scaled React/Node.js fintech platform to **500K+ users** using Micro-Frontend architecture.  
-
-### **SEMINE™ (Microsoft/Dell)**  
-Led development of AI-driven invoice platform with **30% faster processing**.  
-
-### **Jetsaver.com**  
-Optimized React Native travel app for **40% improved load times**.  
-
-[View Full Portfolio →](https://kiranraj.dev)
+* Scaling large applications using **micro-frontend architecture**
+* Refactoring legacy codebases to **TypeScript & modern patterns**
+* Building high-performance dashboards with **Next.js & GraphQL**
+* Exploring advanced **system design & cloud scalability patterns**
 
 ---
 
-## 📌 Featured Repositories  
+## 🧠 Core Expertise
 
-### [SaaS Boilerplate](https://github.com/your-repo)  
-Production-ready React + Node.js + AWS starter for B2B apps.  
+### 🎯 Frontend Architecture
 
-### [Micro-Frontend Demo](https://github.com/your-repo)  
-Modular architecture implementation guide.  
+* React.js, Next.js
+* Micro-frontends
+* TypeScript
+* Performance optimization
+
+### ⚙️ Backend & DevOps
+
+* Node.js (Express, NestJS)
+* GraphQL & REST APIs
+* AWS (Cloud-native architecture)
+* CI/CD pipelines
 
 ---
 
-## 📬 Let’s Collaborate  
-- **For consulting**: [Email me](mailto:kiran.rr91@gmail.com)  
-- **Open to**: Architectural reviews, scaling challenges, and tech leadership roles  
+## 🏗️ Architecture & Case Studies
 
+### 🔹 Micro-Frontend Architecture (Fintech Platform)
+
+* Scaled platform to **500K+ users**
+* Enabled independent team deployments
+* Improved development speed & maintainability
+
+### 🔹 Performance Optimization
+
+* Reduced load time by **40%**
+* Optimized API calls and rendering strategy
+* Implemented lazy loading & caching
+
+### 🔹 High-Scale Dashboard
+
+* Built dashboards handling **100K+ users/day**
+* Designed scalable API architecture
+* Improved response times significantly
+
+---
+
+## 🚀 Highlighted Projects
+
+### 🔹 Plural.com
+
+* Scaled fintech platform to **500K+ users**
+* Implemented **micro-frontend architecture**
+* Improved performance by **40%**
+* **Tech:** React, Node.js, AWS
+
+---
+
+### 🔹 SEMINET (Microsoft/Dell)
+
+* Built AI-driven invoice processing platform
+* Achieved **30% faster processing**
+* Worked on scalable backend systems
+
+---
+
+### 🔹 Jetsaver.com
+
+* Optimized React Native app performance
+* Achieved **40% faster load times**
+* Improved user experience significantly
+
+---
+
+## 🧰 Engineering Practices
+
+* Clean Architecture & Scalable Code Design
+* System Design & Performance Optimization
+* CI/CD & Automation (GitHub Actions, AWS)
+* Code Reviews & Mentorship
+* Agile & Team Leadership
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Kiran-Raj\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Kiran-Raj\&layout=compact\&hide_border=true)
+
+---
+
+## ✍️ Articles & Writing
+
+* Scaling React Applications with Micro-Frontends
+* Lessons from Building Fintech Systems
+* Improving Performance in Large-Scale Apps
+
+👉 (Add your Medium / Dev.to links here)
+
+---
+
+## 📌 Featured Repositories
+
+* 🚀 SaaS Boilerplate (React + Node + AWS)
+* 🧩 Micro-Frontend Demo
+* ⚡ High-performance frontend architecture examples
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m open to:
+
+* SaaS architecture & scaling consulting
+* Performance optimization
+* Codebase refactoring (JavaScript → TypeScript)
+* System design discussions
+
+📩 **Email:** [kiran.r91@gmail.com](mailto:kiran.r91@gmail.com)
+🔗 **Portfolio:** https://kiranraj.dev
+💼 **LinkedIn:** (Add your link)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving complex scalability problems and turning them into simple, maintainable systems.
+
+---
+
+⭐️ *If you find my work useful, feel free to star my repositories!*
