@@ -1,152 +1,111 @@
-# 👋 Hi, I'm Kiran Raj
+# Kiran Raj R
+### Senior Full Stack Engineer | Frontend Architecture | Technical Lead
 
-🚀 **Full-Stack Architect | SaaS Scaling Expert | 10+ Years Experience**
+Building scalable web applications, SaaS platforms, and enterprise solutions with modern JavaScript technologies.
 
-I help startups and enterprises build and scale high-performance web applications used by **500K+ users**, specializing in **React, Node.js, and cloud-native architectures**.
+With **12+ years of software engineering experience**, I specialize in frontend-led full-stack development, application architecture, and delivering production-ready digital products.
 
----
-
-## 💡 About Me
-
-* 🏗️ Architected and scaled fintech & SaaS platforms
-* ⚡ Improved application performance by **40%+ in production**
-* 👨‍💻 Led and mentored **20+ engineers**
-* 🔁 Expert in **micro-frontends, system design & scalable architecture**
-* 🌍 Experience working with startups, enterprises & global teams
+🌐 **Portfolio:** [r-kiran-raj.github.io](https://r-kiran-raj.github.io/)
 
 ---
 
-## 🚧 Currently Working On
+## 👨‍💻 About Me
 
-* Scaling large applications using **micro-frontend architecture**
-* Refactoring legacy codebases to **TypeScript & modern patterns**
-* Building high-performance dashboards with **Next.js & GraphQL**
-* Exploring advanced **system design & cloud scalability patterns**
+- Senior Full Stack Engineer with frontend architecture expertise.
+- Experienced in building enterprise SaaS, FinTech, and EdTech platforms.
+- Strong expertise in React.js, Next.js, TypeScript, and Node.js.
+- Experienced in Micro-Frontend architecture and Design Systems.
+- Focused on scalable systems, performance, maintainability, and clean code.
+- Experienced in collaborating with international clients and distributed engineering teams.
 
----
+## 🛠️ Technical Skills
 
-## 🧠 Core Expertise
+**Frontend Development**
 
-### 🎯 Frontend Architecture
+React.js · Next.js · TypeScript · JavaScript · Redux · Redux-Saga · Tailwind CSS · Material UI
 
-* React.js, Next.js
-* Micro-frontends
-* TypeScript
-* Performance optimization
+**Backend Development**
 
-### ⚙️ Backend & DevOps
+Node.js · Express.js · REST APIs · GraphQL · MongoDB · Redis
 
-* Node.js (Express, NestJS)
-* GraphQL & REST APIs
-* AWS (Cloud-native architecture)
-* CI/CD pipelines
+**Cloud & DevOps**
 
----
+AWS · Docker · Serverless · CI/CD · Git
 
-## 🏗️ Architecture & Case Studies
+**Architecture & Engineering**
 
-### 🔹 Micro-Frontend Architecture (Fintech Platform)
+Micro-Frontends · Design Systems · System Design · API Architecture · Performance Optimization · Application Security
 
-* Scaled platform to **500K+ users**
-* Enabled independent team deployments
-* Improved development speed & maintainability
+**Other Technologies**
 
-### 🔹 Performance Optimization
-
-* Reduced load time by **40%**
-* Optimized API calls and rendering strategy
-* Implemented lazy loading & caching
-
-### 🔹 High-Scale Dashboard
-
-* Built dashboards handling **100K+ users/day**
-* Designed scalable API architecture
-* Improved response times significantly
+WordPress · WooCommerce · React Native
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Selected Projects
 
-### 🔹 Plural.com
+### 1. FinTech – LoanTube
+A UK-based FinTech lending platform.
 
-* Scaled fintech platform to **500K+ users**
-* Implemented **micro-frontend architecture**
-* Improved performance by **40%**
-* **Tech:** React, Node.js, AWS
+- Frontend and full-stack application development.
+- React.js, Next.js, TypeScript.
+- AWS-based application infrastructure.
 
----
+### 2. SEMINE – Enterprise Finance Automation
+Enterprise AI-powered invoice and finance automation platform.
 
-### 🔹 SEMINET (Microsoft/Dell)
+- Worked on enterprise SaaS application development.
+- Contributed to complex business workflows and application functionality.
 
-* Built AI-driven invoice processing platform
-* Achieved **30% faster processing**
-* Worked on scalable backend systems
+### 3. Sanad Academy – Learning Management System
+An international online learning platform supporting 5,000+ students.
 
----
+- Next.js, React, TypeScript.
+- Node.js, Express.js, MongoDB.
+- AWS Lightsail infrastructure.
+- Multilingual learning workflows and AI chatbot integration.
 
-### 🔹 Jetsaver.com
+Website: [sanadacademy.com](https://sanadacademy.com)
 
-* Optimized React Native app performance
-* Achieved **40% faster load times**
-* Improved user experience significantly
+### 4. JetSaver – Web Application
+A web application developed using modern JavaScript technologies.
 
----
+- React.js frontend.
+- Node.js backend.
+- Full-stack application development.
 
-## 🧰 Engineering Practices
+### 5. Ilming – AI-Powered Learning Platform
+An Islamic learning platform prototype.
 
-* Clean Architecture & Scalable Code Design
-* System Design & Performance Optimization
-* CI/CD & Automation (GitHub Actions, AWS)
-* Code Reviews & Mentorship
-* Agile & Team Leadership
+- AI Quran learning.
+- Student learning workflows.
+- Academy management features.
 
----
+### 6. Japanese Korean Mart – E-commerce
+An e-commerce platform.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R-Kiran-Raj\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R-Kiran-Raj\&layout=compact\&hide_border=true)
-
----
-
-## ✍️ Articles & Writing
-
-* Scaling React Applications with Micro-Frontends
-* Lessons from Building Fintech Systems
-* Improving Performance in Large-Scale Apps
-
-👉 (Add your Medium / Dev.to links here)
+- WordPress.
+- WooCommerce.
+- Full-stack development.
 
 ---
 
-## 📌 Featured Repositories
+## 📚 Areas of Interest
 
-* 🚀 SaaS Boilerplate (React + Node + AWS)
-* 🧩 Micro-Frontend Demo
-* ⚡ High-performance frontend architecture examples
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m open to:
-
-* SaaS architecture & scaling consulting
-* Performance optimization
-* Codebase refactoring (JavaScript → TypeScript)
-* System design discussions
-
-📩 **Email:** [kiran.r91@gmail.com](mailto:kiran.r91@gmail.com)
-🔗 **Portfolio:** https://kiranraj.dev
-💼 **LinkedIn:** (Add your link)
+- Frontend Architecture and Engineering
+- Scalable SaaS Development
+- AI-Powered Applications
+- FinTech and EdTech Solutions
+- System Design and Microservices
+- Developer Productivity and Engineering Best Practices
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Let's Connect
 
-I enjoy solving complex scalability problems and turning them into simple, maintainable systems.
+I'm interested in engineering challenges, SaaS product development, architecture discussions, and collaboration on meaningful technology products.
 
----
+🌐 **Portfolio:** https://r-kiran-raj.github.io/
 
-⭐️ *If you find my work useful, feel free to star my repositories!*
+💻 **GitHub:** https://github.com/R-Kiran-Raj
+
